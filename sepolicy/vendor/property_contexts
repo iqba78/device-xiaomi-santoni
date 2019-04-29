@@ -9,3 +9,7 @@ wlan.driver.config         u:object_r:wifi_prop:s0
 wlan.driver.ath            u:object_r:wifi_prop:s0
 wifi.active.interface      u:object_r:wifi_prop:s0
 persist.spectrum.profile    u:object_r:spectrum_prop:s0
+
+# Google camera hal read only props
+ro.camera.                               u:object_r:camera_ro_prop:s0
+ro.vendor.camera.                        u:object_r:camera_ro_prop:s0
