@@ -686,4 +686,6 @@
          If set, the window manager will disable alpha trasformation in animations where not strictly needed. -->
     <bool name="config_sf_limitedAlpha">true</bool>
 
+    <!-- This config is ued to determine whether animations are allowed in low power mode. -->
+    <bool name="config_allowAnimationsInLowPowerMode">true</bool>
 </resources>
