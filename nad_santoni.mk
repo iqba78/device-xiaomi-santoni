@@ -34,7 +34,7 @@ TARGET_SCREEN_WIDTH := 720
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Build fingerprint
-BUILD_FINGERPRINT := google/redfin/redfin:13/TP1A.220905.004/8927612:user/release-keys
+BUILD_FINGERPRINT := google/raven/raven:13/T1B2.220916.004/9116700:user/release-keys
 BUILD_DESCRIPTION := santoni-user 7.1.2 N2G47H V9.5.10.0.NAMMIFD release-keys
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
